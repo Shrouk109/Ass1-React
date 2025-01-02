@@ -2,12 +2,12 @@
   "name": "ass1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Shrouk109.github.io/Ass1-React",
+  "homepage": "https://Shrouk109.github.io/test",
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
